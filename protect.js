@@ -1,0 +1,2 @@
+
+const noms = pieces
